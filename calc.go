@@ -1,4 +1,4 @@
-package calc
+package calculator
 
 // Add two numbers.
 // Return the result.
