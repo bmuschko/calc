@@ -1,3 +1,3 @@
-module github.com/bmuschko/calc
+module github.com/bmuschko/calculator
 
 go 1.13
